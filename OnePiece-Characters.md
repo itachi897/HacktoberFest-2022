@@ -5,3 +5,8 @@
 ## Sanji
 ## Nami
 ## Usopp
+## Chopper
+## Nico Robin
+## Franky
+## Brook
+...
