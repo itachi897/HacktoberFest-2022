@@ -1,5 +1,5 @@
-## OnePiece Characters
+# OnePiece Characters
 
-# Luffy
-# Zoro
-# Sanji
+## Luffy
+## Zoro
+## Sanji
