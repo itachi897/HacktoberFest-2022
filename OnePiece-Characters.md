@@ -11,3 +11,10 @@
 -  Franky
 -  Brook
 -  Jinbe
+
+
+## Yonkos
+-  Shanks
+-  Big Mom
+-  Kaido
+-  Whitebeard
