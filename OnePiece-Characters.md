@@ -9,4 +9,4 @@
 ## Nico Robin
 ## Franky
 ## Brook
-...
+## Jinbe
