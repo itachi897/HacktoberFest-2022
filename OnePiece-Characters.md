@@ -11,7 +11,6 @@
 -  Franky
 -  Brook
 -  Jinbe
--  kid
 
 
 ## Yonkos
