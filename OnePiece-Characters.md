@@ -15,6 +15,6 @@
 
 ## Yonkos
 -  Shanks
--  Big Mom
+-  Blackbeard
 -  Kaido
 -  Whitebeard
