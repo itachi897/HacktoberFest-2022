@@ -16,5 +16,5 @@
 ## Yonkos
 -  Shanks
 -  Blackbeard
--  Kaido
+-  Luffy
 -  Whitebeard
