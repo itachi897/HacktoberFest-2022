@@ -17,4 +17,4 @@
 -  Shanks
 -  Blackbeard
 -  Luffy
--  Whitebeard
+-  Buggy
