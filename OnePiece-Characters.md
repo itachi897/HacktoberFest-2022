@@ -10,8 +10,8 @@
 -  Nico Robin
 -  Franky
 -  Brook
--  Jinbe
-
+  
+   
 
 ## Yonkos
 -  Shanks
