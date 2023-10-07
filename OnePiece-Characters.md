@@ -10,6 +10,7 @@
 -  Nico Robin
 -  Franky
 -  Brook
+-  jimbe
   
    
 
