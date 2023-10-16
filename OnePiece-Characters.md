@@ -3,7 +3,7 @@
 ## Mugiwara no ichimi
 -  Luffy
 -  Zoro
--  Sanji
+  
 -  Nami
 -  Usopp
 -  Chopper
