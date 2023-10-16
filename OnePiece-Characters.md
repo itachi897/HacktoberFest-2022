@@ -20,3 +20,4 @@
 -  Luffy
 -  Buggy
 -  jimbe
+-  katakuri
